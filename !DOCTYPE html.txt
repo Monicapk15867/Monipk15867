@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monica Karunaimalai | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Monica Karunaimalai</h1>
+        <p>BI Architect | Power BI Expert | Data Enthusiast</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm a BI Architect with over 8 years of experience specializing in Power BI, data modeling, and analytics. I create scalable and high-performance business intelligence solutions to transform data into actionable insights.</p>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Enterprise Power BI Dashboards</strong> - Designed executive-level dashboards for Intel & T-Mobile.</li>
+            <li><strong>Data Architecture & Optimization</strong> - Developed scalable BI architectures ensuring data integrity.</li>
+            <li><strong>ETL & Automation</strong> - Built automated ETL pipelines using Azure Data Factory & SSIS.</li>
+        </ul>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Power BI (DAX, Power Query)</li>
+            <li>SQL Server & Azure SQL</li>
+            <li>Data Modeling & Warehousing</li>
+            <li>ETL Processes & Automation</li>
+            <li>Azure DevOps & CI/CD</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: monicapk1586@outlook.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/monicapk">linkedin.com/in/monicapk</a></p>
+        <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Monica Karunaimalai | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
